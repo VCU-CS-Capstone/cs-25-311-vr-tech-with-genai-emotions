@@ -5,12 +5,11 @@
 **Mentor/Faculty Advisor:** Alberto Cano 
 
 ## 1) Accomplishments this week ##
-   - investigate databases done by student A
-   - make flowcharts done by students A and B
+   - Submitted bids for several projects.
 
 ## 2) Milestones to be completed next week ##
-   - debug the code to be performed by student C
+   - Await confirmation on project assignment.
+   - Once the project is assigned, meet with the advisor to discuss next steps and begin drafting the team contract.
 
 ## 3) Issues, problems or concerns ##
-   - student C needs to learn java
-   - database repository costs big $$$
+   - No issues, waiting for project assignment confirmation.
