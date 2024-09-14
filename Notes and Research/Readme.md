@@ -5,6 +5,6 @@
 - Description of development environment or link to development environment
 
 Githubs
-https://github.com/oculus-samples/Unity-Movement
+- https://github.com/oculus-samples/Unity-Movement
 
   -Meta Quest Pro emotion recognition using Unity-Movement package.
