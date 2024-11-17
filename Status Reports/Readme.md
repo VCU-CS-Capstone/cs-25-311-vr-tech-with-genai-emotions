@@ -1,21 +1,15 @@
 # Status Reports Folder
-Weekly/bi-weekly status reports go into this folder
 
-Project Plan Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Template/blob/master/Status%20Reports/Project%20Plan.md
-
-Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Template/blob/master/Status%20Reports/Status%20Reports.dotx
-
-## 1st Semester
+## Fall Semester
 
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
-| Project Plan | Overall week by week plan of milestones | | |
-| Week 1 Status Report | | | |
-| Week 2 Status Report | | | |
-| Week 3 Status Report | | | |
-| Week 4 Status Report | | | |
-| Week 5 Status Report | | | |
-| Week 6 Status Report | | | |
+| Week 1 Status Report | Submitted bids for several projects. | Await confirmation on project assignment. | No problems to report! |
+| Week 2 Status Report | Meet with our advisor and teammates, begin drafting the team contract.	| Successfully contacted our advisor, finalized our team contract, and clarified project expectations. | Minor scheduling conflicts, but quickly resolved. |
+| Week 3 Status Report | Advisor instructed us to research emotion analysis and set up necessary software tools. | Completed the team contract, set up software tools, and gained a clearer understanding of the project scope after meeting with the advisor. | Faced minor scheduling difficulties when coordinating team meetings. |
+| Week 4 Status Report | Research emotion analysis papers, download relevant models, and assign roles based on individual interests. | Read key papers on emotion recognition, downloaded and tested repositories, and divided roles among team members according to their areas of interest. | Technical issues with running some models, and we encountered challenges presenting our progress during the advisor meeting. Will focus on improving organization for future updates. |
+| Week 5 Status Report | Conduct more in-depth research on emotion and facial recognition, explore datasets and models. | Implemented initial code for testing models and resolved issues with finding relevant papers. | Initial difficulty finding relevant research papers, resolved. |
+| Week 6 Status Report | Continue testing models, read papers, begin Unity development. | Conducted additional research on models, started working in Unity. | Time commitment challenges due to other responsibilities. |
 | Week 7 Status Report | | | |
 | Week 8 Status Report | | | |
 | Week 9 Status Report | | | |
@@ -27,7 +21,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 15 Status Report | | | |
 | Week 16 Status Report | | | |
 
-## 2nd Semester
+## Spring Semester
 
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
