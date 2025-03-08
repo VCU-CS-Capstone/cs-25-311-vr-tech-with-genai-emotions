@@ -25,9 +25,9 @@
 
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
-| Week 1 Status Report | | | |
-| Week 2 Status Report | | | |
-| Week 3 Status Report | | | |
+| Week 1 Status Report |Complete the VR program for the experiment | Finalized the program|none |
+| Week 2 Status Report |Get participants for experiment |Gathered close to 10 participants | none|
+| Week 3 Status Report |Get more participants |Gathered 2 more participants| none|
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
