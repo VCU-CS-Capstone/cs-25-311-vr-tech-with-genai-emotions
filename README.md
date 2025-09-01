@@ -18,4 +18,4 @@ Advancing content creation and development in virtual reality (VR) environments 
 - *Gokul Chaluvadi* - *Computer Science* - Student Team Member
 - *Kshitij Kokkera* - *Computer Science* - Student Team Member
 - *Zanika Hossain* - *Computer Science* - Student Team Member
-- *Natalia Tondi* - *Computer Engineering* - Student Team Member
+- *Natalia Tondi* - *Computer Science* - Student Team Member
